@@ -23,4 +23,4 @@ typing-extensions==4.2.0
 Werkzeug==2.1.2
 wrapt==1.14.1
 zipp==3.8.0
-mysql-connector-python==2.2.2
+mysql-connector-python-rf==2.2.2
