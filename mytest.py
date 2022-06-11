@@ -21,4 +21,4 @@ def test_logout():
 def test_simple3():
     mylist = [1,3,5]
     
-    assert 8 in mylist
+    assert 9 in mylist
