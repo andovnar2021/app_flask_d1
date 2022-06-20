@@ -107,4 +107,4 @@ def view_the_log():
 app.secret_key = 'ItisMySecretKey '
 
 if __name__ == '__main__':
-    app.run(debug=True)
+   app.run(host='0.0.0.0', port=80)
